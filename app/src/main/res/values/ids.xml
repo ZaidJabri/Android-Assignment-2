@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="barrier4" type="id" />
+    <item name="barrier6" type="id" />
+    <item name="barrier7" type="id" />
+    <item name="barrier3" type="id" />
+    <item name="barrier2" type="id" />
+    <item name="textView11" type="id" />
+    <item name="textView10" type="id" />
+    <item name="spSelect1" type="id" />
+</resources>
